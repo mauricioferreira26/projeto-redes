@@ -12,7 +12,7 @@ html, body{
 }
 
 body{
-    background: url(imagens/fundo-madeira.jpg);
+    background: url(../imagens/fundo-madeira.jpg);
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -32,7 +32,7 @@ main{
     transform: translate(-50%, -50%);
     width: 311px;
     height: 627px;
-    background: url(imagens/frame-iphone.png);
+    background: url(../imagens/frame-iphone.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
